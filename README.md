@@ -19,7 +19,7 @@ SmartLib is a web-based Library Management System built using Django.
 
 ## Project Structure
 
-SmartLib/
+SmartLib
   - manage.py
   - app
   - templates
